@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/subtitulo_uno"
+            android:title="Material Design">
+            <menu>
+                <item
+                    android:id="@+id/constraint_layout"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/constraint_layout"/>
+
+                <item
+                    android:id="@+id/nestedscrollview"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/nestedscrollview" />
+
+                <item
+                    android:id="@+id/collapsing"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/collapsingtoolbarlayout" />
+                <item
+                    android:id="@+id/video"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/videoactivity"/>
+                <item
+                    android:id="@+id/sonido"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/sonido_activity"/>
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="Cerrar sesion"/>
+            </menu>
+        </item>
+    </group>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87077142442",
+    "project_id": "authex-1b010",
+    "storage_bucket": "authex-1b010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87077142442:android:eebb510ca0867ce23875d3",
+        "android_client_info": {
+          "package_name": "dgtic.unam.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87077142442-lvp90g7aemlug9a2v1bkbqr0okvaaav6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDHPv3oB_vH1qv5wpcAgDsfVxYPr17-E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87077142442-lvp90g7aemlug9a2v1bkbqr0okvaaav6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
